@@ -1,0 +1,48 @@
+Nome: Bonsai - caliandra espinosa rosa
+id: bonsai-caliandra-espinosa-rosa
+data_aquisicao: 28/09/2022
+valor: R$ ???
+idade: 7 anos
+registros:
+  - data: 11/03/2023
+    descricao: > 
+      Mudei a planta original do vaso de plastico preto onde ela veio
+      para um vaso de ceramica com substrato novo
+
+    fotos:
+      - image_path: ./pages\caliandra\D_bonsai\caliandra_1.png
+        descricao: transplante na planta
+
+  - data: 15/07/2023
+    descricao: > 
+      ela não estava muito bem, o solo n estava drenante (ficava empossado), entao eu mudei de terra novamente para um sobstrato mais drenante
+
+    fotos:
+      - image_path: ./pages\caliandra\D_bonsai\caliandra_2.png
+        descricao: transplante para substrato mais drenante
+
+  - data: 12/09/2023
+    descricao: > 
+      atualização rotineira, acho que a planta gostou do novo substrato, tem varios varões novos e elas descabelou bem
+
+    fotos:
+      - image_path: ./pages\caliandra\D_bonsai\caliandra_3.png
+        descricao: reação positiva ao último transplante com substrato drenante
+
+  - data: 14/09/2023
+    descricao: calda sulfocalcia
+
+  - data: 23/09/2023
+    descricao: poda para deixar menos descabelada
+
+  - data: 24/01/2024
+    descricao: >
+      Tive q mudar a caliandra pra um vaso maior, so deu 7 meses do ultimo transplante (15/07/2023) e ela LITERALMENTE TOMOU O VASO TODO
+      Ela tava comecando a morrer inclusive eu achei que fosse algo q eu tivesse feito, mas na vdd era excesso de raizes e falta de alimento e nutrientes (substrato)
+      Passei pra um vaso maior cortei só um pouco q tava meio esquisito e ja no dia seguinte parou de cair folha e as folhas tao mais verdinhas, agora eh esperar pra ver    
+
+  - data: 17/02/2024
+    descricao: a planta mãe que eu transplantei mes passado +- pq tinha tomado o vaso todo, segue firme e forte e o ritmo de queda das folhas tem diminuido apesar de uma ou outra amarela aqui e ali
+    fotos:
+      - image_path: ./pages\caliandra\D_bonsai\caliandra_4.png
+        descricao: atualização rotineira

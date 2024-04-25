@@ -1,0 +1,61 @@
+Nome: Planta mãe - Ficus Tortinho (Ficus Green island / retusa)
+id: planta-mae-ficus-tortinho
+data_aquisicao: 10/07/2022
+valor: R$ 346,80
+idade: 5 anos (adquirida em 10/07/2022)
+registros:
+  - data: 01/09/2022
+    descricao: a planta original, foi transplantada em setembro do vaso onde veio de pré-bonsai para um vaso de ceramica e uma muda foi colocada na areia.
+
+  - data: 15/07/2023
+    descricao: Passei o ficus original para uma mamadeira, porque ja tinha raiz saindo por baixo do vaso para onde ele tinha sido transplantado, apenas coloquei uma bacia maior (cuia) com hormonio organico e coloquei a planta em cima para evitar manusear a planta novamente.
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_1.png
+        descricao: foto da planta em cima da cuia
+
+  - data: 12/09/2023
+    descricao: Atualização rotineira.
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_2.png
+        descricao: mostrando a reação da planta após ser colocada na cuia
+
+  - data: 14/09/2023
+    descricao: calda sulfocastica
+
+  - data: 10/10/2023
+    descricao: forth cobre
+
+  - data: 13/11/2023
+    descricao: A planta original foi podada e armei dois galhos pra ficar em melhor posição. Coloquei dois galinhos tamanhos médio e grande (resultados da poda) na areia pra ver se pega raiz.
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_3.png
+        descricao: Antes
+
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_4.png
+        descricao: Depois
+
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_5.png
+        descricao: Lado a lado
+
+  - data: 18/02/2024
+    descricao: Nos meados do carnaval, a planta mãe estava com muitos galhos inclusive algumas folhas de dentro estavam amarelando e caindo, entao eu fiz uma poda de manutenção o que gerou umas 10 cortes pequenos, mas q ainda assim eu coloquei na terra para ver se pega e um galho grandão que vou falar mais abaixo
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_6.png
+        descricao: Essa eh a planta mãe apos ser podada, dando para ver certinho os patamares, sem galhos cruzados e ou irrelevantes ou indo na direção errada / não agregando
+
+
+  - data: 25/04/2024
+    descricao: acabei me descuidando dela e acho q ficou alguns dias sem regar, notei porque quando fui ver as folhas estam meio opacas e algumas retorcidas, achei que fosse poeira, mas ao chegar mais perto, vi o estrago..... tirei manualmente as folhas secas e reguei bem o solo e tambem pulveizei a planta com agua, espero muito que ainda de para salvar, tem varios brotinhos e essa é minha planta favorita
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_7.jpg
+        descricao: como a planta ficou após a remoção das folhas secas
+
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_8.jpg
+        descricao: a quantidade de folhas que cairam
+
+              
+
+
+    
+
+
