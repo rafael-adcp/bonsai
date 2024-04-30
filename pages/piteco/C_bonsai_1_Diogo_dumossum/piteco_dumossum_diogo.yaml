@@ -1,0 +1,15 @@
+Nome: Bonsai / Pre bonsai - Pitecolobium dumossum (comprado do Diogo)
+id: bonsai-que-comprei-do-dioogo-pitecolibium-dumossum
+idade: 2 anos em agosto de 2024
+data_aquisicao: 16/02/2024
+valor: R$ 118,00
+registros:
+  - data: 21/02/2024
+    descricao: Comprei Bonsai do Diogo, bonsai sul de minas (BSM)
+    fotos:
+      - image_path: .\pages\piteco\C_bonsai_1_Diogo_dumossum\2_planta_replantada_em_casa.jpg
+        descricao: O Diogo desmonta a planta e manda ela com as raizes cortadinhas, ja para economizar no frete, entao assim que chegou eu tive que replantar ela e deixar na sombra
+    videos:
+      - video_path: .\pages\piteco\C_bonsai_1_Diogo_dumossum\1_video_planta_que_comprei.mp4
+        descricao: video que o Diogo gravou da planta para divulgar no grupo de alunos para venda
+      

@@ -108,6 +108,35 @@
                             {{/each}}
                         </div>
                     {{/if}}
+
+					 {{#if videos}}
+                        <div class="row">
+                            <div class="col-2"></div>
+							<div class="col-8">
+                                <header>
+                                    <h3>Videos:</h3>
+                                </header>
+                            </div>
+							
+                        </div>
+				
+
+                        <div class="row d-flex justify-content-center">
+                            {{#each videos}}
+                                <div class="col-4"></div>
+								<div class="col-8">
+                                    <article class="item">
+                                        <a href="{{video_path}}" class="image fit">
+											<video src="{{video_path}}" alt="" style="width: 200px; height: 200px"/>
+										</a>
+                                        <header>
+                                            <p>{{descricao}}</p>
+                                        </header>
+                                    </article>
+                                </div>
+                            {{/each}}
+                        </div>
+                    {{/if}}
                 {{/each}}
 
 			</div>
