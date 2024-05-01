@@ -53,9 +53,15 @@ registros:
       - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_8.jpg
         descricao: a quantidade de folhas que cairam
 
-              
+  - data: 01/05/2024
+    descricao: aramei a planta com arame próprio para bonsai para posicionar os galhos direitinho
+    fotos:
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_9.jpg
+        descricao: foto da plantinha aramada
 
+      - image_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_11.jpg
+        descricao: Aramação Antes e Depois lado a lado mostrado a diferença de utilizar a ferramenta correta
 
-    
-
-
+    videos:
+      - video_path: ./pages/ficus_tortinho/D_bonsai_1/planta_original_ficus_10.mp4
+        descricao: video da plantinha aramada
